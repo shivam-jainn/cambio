@@ -1,12 +1,12 @@
 import './App.css'
 import Navbar from './components/NavBar'
-import PlaceOrderPage from './screens/PlaceOrderPage'
+import OrderConfirmation from './screens/OrderConfirmation'
 function App() {
 
   return (
     <>
       <Navbar />
-      <PlaceOrderPage />
+      <OrderConfirmation />
     </>
   )
 }
