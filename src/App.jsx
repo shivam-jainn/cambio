@@ -1,12 +1,12 @@
 import './App.css'
 import Navbar from './components/NavBar'
-import BidPage from './screens/BidPage'
+import PlaceOrderPage from './screens/PlaceOrderPage'
 function App() {
 
   return (
     <>
       <Navbar />
-      <BidPage />
+      <PlaceOrderPage />
     </>
   )
 }
