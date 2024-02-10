@@ -1,12 +1,15 @@
 import './App.css'
 import Navbar from './components/NavBar'
 import BidPage from './screens/BidPage'
+import ChatPage from './screens/ChatPage'
 function App() {
+
 
   return (
     <>
       <Navbar />
-      <BidPage />
+      {/* <BidPage /> */}
+      <ChatPage />
     </>
   )
 }

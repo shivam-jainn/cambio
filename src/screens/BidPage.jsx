@@ -3,7 +3,7 @@ import DetailCard from "../components/DetailCard";
 function BidPage() {
     return (
         <>
-            <div className="flex justify-evenly items-center mt-8">
+            <div className="flex justify-evenly items-center ">
                 <Carousel />
                 <DetailCard />
             </div>
